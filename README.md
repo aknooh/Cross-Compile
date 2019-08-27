@@ -14,7 +14,7 @@ git clone git@github.com:aknooh/Cross-Compile.git
 ### To build `iw tool`
 
 ```bash
-$./build_iw.sh
+./build_iw.sh
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                      Dload  Upload   Total   Spent    Left  Speed
    100   162  100   162    0     0    871      0 --:--:-- --:--:-- --:--:--   870
@@ -23,7 +23,7 @@ $./build_iw.sh
 
 ### To build `rfkill tool`
 ```bash
-[andy@dsktp:src]$ ./build_rfkill.sh
+./build_rfkill.sh
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                    Dload  Upload   Total   Spent    Left  Speed
 100  8197  100  8197    0     0  61976      0 --:--:-- --:--:-- --:--:-- 62098
