@@ -29,7 +29,7 @@ git clone git@github.com:aknooh/Cross-Compile.git
 100  8197  100  8197    0     0  61976      0 --:--:-- --:--:-- --:--:-- 62098
 ```
 
-## Assumptions
+## Requirements
 - [GNU ARM cross-compile toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)  installed on host machine
 
 ## Contributing
